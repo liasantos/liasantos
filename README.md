@@ -30,3 +30,9 @@
   <img align="right" alt="Lia-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/338224_T6GbMLFC.png">
   <a href = "mailto:liasantosds@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lia-santos-ds" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+    ##
+    
+<div> 
+  ![Snake animation](https://github.com/liasantos/liasantos/blob/output/github-contribution-grid-snake.svg) 
+</div>
