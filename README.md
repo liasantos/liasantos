@@ -6,7 +6,6 @@
   - 🔭 Atualmente trabalho como desenvolvedora Front-End Web
   - 🌱 Estou aprendendo Typescript, SASS e testes com React Testing Library/Jest
   - ♿ Minha meta é me especializar em Acessibilidade Web
-  - 😄 Pronomes: ela/dela
  
  <div align="center">
   <a href="https://github.com/liasantos">
